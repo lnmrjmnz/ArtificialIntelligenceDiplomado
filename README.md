@@ -1,0 +1,2 @@
+# ArtificialIntelligenceDiplomado
+repository for tasks
